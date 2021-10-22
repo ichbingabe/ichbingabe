@@ -6,12 +6,12 @@
 - 😄 Pronouns: He/Him
 
 
-
+##
   <div>
     <a href= "https://github.com/ichbingabe">
       <img height="180em" style ="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=ichbingabe&count_private=true&show_icons=true&theme=radical">
-      <img height="180em" style ="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichbingabe&layout=compact&theme=radical&show_icons=true">
   </div>
+ 
  
   <div style="display: inline_block"><br>
     
