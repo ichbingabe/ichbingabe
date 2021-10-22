@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**ichbingabe/ichbingabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React, React Native, JavaScript
+- 💬 Ask me about the the beginning of our journey in space and time
+- 📫 How to reach me: brielesteves@gmail.com
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  <div>
+    <a href= "https://github.com/ichbingabe">
+      <img height="180em" style ="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=ichbingabe&count_private=true&show_icons=true&theme=radical">
+      <img height="180em" style ="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichbingabe&layout=compact&theme=radical&show_icons=true">
+  </div>
+ 
+  <div style="display: inline_block"><br>
+    
+  <img allign="center" alt="Gabe-html" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img allign="center" alt="Gabe-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img allign="center" alt="Gabe-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img allign="center" alt="Gabe-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img allign="center" alt="Gabe-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+  
+  </div>
+  
+
