@@ -1,7 +1,7 @@
 
 
 - 🌱 I’m currently learning React, React Native, JavaScript
-- 💬 Ask me about the the beginning of our journey in space and time
+- 💬 Ask me about the rise and fall of the roman empire
 - 📫 How to reach me: brielesteves@gmail.com
 - 😄 Pronouns: He/Him
 
