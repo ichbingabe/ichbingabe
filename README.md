@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m currently learning React, React Native, JavaScript
+- 🌱 I’m backend developer with some experience in Django.
 - 💬 Ask me about the rise and fall of the roman empire
 - 📫 How to reach me: brielesteves@gmail.com
 - 😄 Pronouns: He/Him
