@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m backend developer with some experience in Django.
+- 🌱 I’m DevOps Engineer with strong experience in Kubernetes and Clouds.
 - 💬 Ask me about the rise and fall of the roman empire
 - 📫 How to reach me: brielesteves@gmail.com
 - 😄 Pronouns: He/Him
